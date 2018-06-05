@@ -111,6 +111,9 @@
     <!-- Navigation bar -->
     <string name="navigation_bar_title">Navigation bar</string>
     <string name="navigation_bar_title_summary">Enable on-screen navigation keys</string>
+    <!-- Navigation bar Animation-->
+    <string name="navigation_bar_animation_title">Show animation</string>
+    <string name="navigation_bar_animation_summary">When pressed, animate the navigation bar\'s home button</string>
     <!-- Swap navigation keys -->
     <string name="swap_navigation_keys_title">Swap keys</string>
     <string name="swap_navigation_keys_title_summary">Swap back and recents keys</string>
@@ -288,5 +291,9 @@
     <string name="ambient_recognition_summary">Be notified of music being played around you. Will increase battery and data usage.</string>
     <string name="ambient_recognition_lockscreen_title">Show ambient indication</string>
     <string name="ambient_recognition_lockscreen_summary">On the lockscreen</string>
+
+    <!-- Network Indication -->
+    <string name="network_indication_title">Network indication</string>
+    <string name="network_indication_summary">Display\'s network indicators in the statusbar, emphasizing traffic</string>
 
 </resources>
